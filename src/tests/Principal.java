@@ -37,6 +37,7 @@ public class Principal {
         Integer x=obj2.getValor()+2;
         obj2.setValor(x);
         out("El valor de obj2 es: "+Integer.toString(obj2.getValor()));
+        out("Agregando algo a git");
 
     }
 
