@@ -80,8 +80,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1556" />
-    <option name="y" value="-113" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="819" />
   </component>
@@ -564,7 +563,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494213420996</updated>
       <workItem from="1494213425296" duration="5967000" />
-      <workItem from="1495845510331" duration="1016000" />
+      <workItem from="1495845510331" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="Agregando una linea de impresion">
       <created>1495846803554</created>
@@ -577,11 +576,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6983000" />
+    <option name="totallyTimeSpent" value="7448000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1556" y="-113" width="1440" height="819" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="819" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
